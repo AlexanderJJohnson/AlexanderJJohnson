@@ -4,8 +4,3 @@
 - I'm currently building projects and learning to build on the knowledge accquired from my degree. 🛠️
 - How to reach me: aj34johnson2021@gmail.com 💼
 
-# What to Expect
--   Hardware Projects
--   Documentation on the projects that are already here
-
-
