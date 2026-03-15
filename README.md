@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Alexander Johnson!
-- 👀 I’m interested in drumming, basketball, Rubik's Cubes, gaming, and coding.
-- 🌱 I’m currently learning C++.
-- 📫 How to reach me: aj34johnson2021@gmail.com
+# About Me
+- Hi! I’m Alexander Johnson, a Computer Engineering Graduate from the University of North Texas! 🟢🦅⚪
+- Some hobbies of mine include drumming, piano, basketball, journaling, and playing with electronics. 🤖
+- I'm currently building projects and learning to build on the knowledge accquired from my degree. 🛠️
+- How to reach me: aj34johnson2021@gmail.com 💼
 
-<!---
-DrumlineBaller/DrumlineBaller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# What to Expect
+-   Hardware Projects
+-   Documentation on the projects that are already here
+
+
